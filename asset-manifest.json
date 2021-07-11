@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/studio/static/css/main.f5e81c3d.chunk.css",
+    "main.css": "/studio/static/css/main.1debfd08.chunk.css",
     "main.js": "/studio/static/js/main.6c43d53e.chunk.js",
     "main.js.map": "/studio/static/js/main.6c43d53e.chunk.js.map",
     "runtime-main.js": "/studio/static/js/runtime-main.4dddd02f.js",
@@ -10,7 +10,7 @@
     "static/js/3.df8fb58e.chunk.js": "/studio/static/js/3.df8fb58e.chunk.js",
     "static/js/3.df8fb58e.chunk.js.map": "/studio/static/js/3.df8fb58e.chunk.js.map",
     "index.html": "/studio/index.html",
-    "static/css/main.f5e81c3d.chunk.css.map": "/studio/static/css/main.f5e81c3d.chunk.css.map",
+    "static/css/main.1debfd08.chunk.css.map": "/studio/static/css/main.1debfd08.chunk.css.map",
     "static/js/2.ed9e7f59.chunk.js.LICENSE.txt": "/studio/static/js/2.ed9e7f59.chunk.js.LICENSE.txt",
     "static/media/header.css": "/studio/static/media/bg3.b63131df.jpg",
     "static/media/navbar.css": "/studio/static/media/SPETETRIAL.fc4b3453.ttf",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.4dddd02f.js",
     "static/js/2.ed9e7f59.chunk.js",
-    "static/css/main.f5e81c3d.chunk.css",
+    "static/css/main.1debfd08.chunk.css",
     "static/js/main.6c43d53e.chunk.js"
   ]
 }

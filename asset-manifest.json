@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/studio/static/css/main.b847d555.chunk.css",
-    "main.js": "/studio/static/js/main.2cb8ccd6.chunk.js",
-    "main.js.map": "/studio/static/js/main.2cb8ccd6.chunk.js.map",
+    "main.css": "/studio/static/css/main.8eb09c2d.chunk.css",
+    "main.js": "/studio/static/js/main.7120e076.chunk.js",
+    "main.js.map": "/studio/static/js/main.7120e076.chunk.js.map",
     "runtime-main.js": "/studio/static/js/runtime-main.7fffed90.js",
     "runtime-main.js.map": "/studio/static/js/runtime-main.7fffed90.js.map",
     "static/js/2.c01a010b.chunk.js": "/studio/static/js/2.c01a010b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c87d3b27.chunk.js": "/studio/static/js/3.c87d3b27.chunk.js",
     "static/js/3.c87d3b27.chunk.js.map": "/studio/static/js/3.c87d3b27.chunk.js.map",
     "index.html": "/studio/index.html",
-    "static/css/main.b847d555.chunk.css.map": "/studio/static/css/main.b847d555.chunk.css.map",
+    "static/css/main.8eb09c2d.chunk.css.map": "/studio/static/css/main.8eb09c2d.chunk.css.map",
     "static/js/2.c01a010b.chunk.js.LICENSE.txt": "/studio/static/js/2.c01a010b.chunk.js.LICENSE.txt",
     "static/media/header.css": "/studio/static/media/bg3.caab009c.jpg",
     "static/media/navbar.css": "/studio/static/media/bg.a87023d8.jpg",
@@ -19,9 +19,9 @@
     "static/media/piotr.f4819e07.jpg": "/studio/static/media/piotr.f4819e07.jpg",
     "static/media/poland.abc96259.png": "/studio/static/media/poland.abc96259.png",
     "static/media/robotnicza.b3ffb79b.jpg": "/studio/static/media/robotnicza.b3ffb79b.jpg",
+    "static/media/sala.e752f283.jpg": "/studio/static/media/sala.e752f283.jpg",
     "static/media/sala2.44fa1b1d.jpg": "/studio/static/media/sala2.44fa1b1d.jpg",
     "static/media/studio2.6a402f5a.jpg": "/studio/static/media/studio2.6a402f5a.jpg",
-    "static/media/studio3.aefa0578.jpg": "/studio/static/media/studio3.aefa0578.jpg",
     "static/media/booking.css": "/studio/static/media/tlo1.4a10ed2f.jpg",
     "static/media/uk.5233f022.png": "/studio/static/media/uk.5233f022.png",
     "static/media/ukraine.b99561ea.png": "/studio/static/media/ukraine.b99561ea.png"
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.7fffed90.js",
     "static/js/2.c01a010b.chunk.js",
-    "static/css/main.b847d555.chunk.css",
-    "static/js/main.2cb8ccd6.chunk.js"
+    "static/css/main.8eb09c2d.chunk.css",
+    "static/js/main.7120e076.chunk.js"
   ]
 }

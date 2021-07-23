@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/studio/static/css/main.67a315e8.chunk.css",
-    "main.js": "/studio/static/js/main.c17e7418.chunk.js",
-    "main.js.map": "/studio/static/js/main.c17e7418.chunk.js.map",
+    "main.css": "/studio/static/css/main.0d0548d2.chunk.css",
+    "main.js": "/studio/static/js/main.bf631c9c.chunk.js",
+    "main.js.map": "/studio/static/js/main.bf631c9c.chunk.js.map",
     "runtime-main.js": "/studio/static/js/runtime-main.68f75a0f.js",
     "runtime-main.js.map": "/studio/static/js/runtime-main.68f75a0f.js.map",
     "static/js/2.c01a010b.chunk.js": "/studio/static/js/2.c01a010b.chunk.js",
@@ -10,26 +10,23 @@
     "static/js/3.bddb457c.chunk.js": "/studio/static/js/3.bddb457c.chunk.js",
     "static/js/3.bddb457c.chunk.js.map": "/studio/static/js/3.bddb457c.chunk.js.map",
     "index.html": "/studio/index.html",
-    "static/css/main.67a315e8.chunk.css.map": "/studio/static/css/main.67a315e8.chunk.css.map",
+    "static/css/main.0d0548d2.chunk.css.map": "/studio/static/css/main.0d0548d2.chunk.css.map",
     "static/js/2.c01a010b.chunk.js.LICENSE.txt": "/studio/static/js/2.c01a010b.chunk.js.LICENSE.txt",
     "static/media/header.css": "/studio/static/media/bg3.caab009c.jpg",
     "static/media/navbar.css": "/studio/static/media/bg.a87023d8.jpg",
     "static/media/logo1.a50a8075.png": "/studio/static/media/logo1.a50a8075.png",
     "static/media/marcin.8a8955a1.jpg": "/studio/static/media/marcin.8a8955a1.jpg",
     "static/media/piotr.f4819e07.jpg": "/studio/static/media/piotr.f4819e07.jpg",
-    "static/media/poland.abc96259.png": "/studio/static/media/poland.abc96259.png",
     "static/media/robotnicza.b3ffb79b.jpg": "/studio/static/media/robotnicza.b3ffb79b.jpg",
     "static/media/sala.e752f283.jpg": "/studio/static/media/sala.e752f283.jpg",
     "static/media/sala2.44fa1b1d.jpg": "/studio/static/media/sala2.44fa1b1d.jpg",
     "static/media/studio2.6a402f5a.jpg": "/studio/static/media/studio2.6a402f5a.jpg",
-    "static/media/booking.css": "/studio/static/media/tlo1.4a10ed2f.jpg",
-    "static/media/uk.5233f022.png": "/studio/static/media/uk.5233f022.png",
-    "static/media/ukraine.b99561ea.png": "/studio/static/media/ukraine.b99561ea.png"
+    "static/media/booking.css": "/studio/static/media/tlo1.4a10ed2f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.68f75a0f.js",
     "static/js/2.c01a010b.chunk.js",
-    "static/css/main.67a315e8.chunk.css",
-    "static/js/main.c17e7418.chunk.js"
+    "static/css/main.0d0548d2.chunk.css",
+    "static/js/main.bf631c9c.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/studio/static/css/main.7e874301.chunk.css",
-    "main.js": "/studio/static/js/main.0cb8e2c0.chunk.js",
-    "main.js.map": "/studio/static/js/main.0cb8e2c0.chunk.js.map",
+    "main.css": "/studio/static/css/main.40f43eb5.chunk.css",
+    "main.js": "/studio/static/js/main.4cc298bf.chunk.js",
+    "main.js.map": "/studio/static/js/main.4cc298bf.chunk.js.map",
     "runtime-main.js": "/studio/static/js/runtime-main.68f75a0f.js",
     "runtime-main.js.map": "/studio/static/js/runtime-main.68f75a0f.js.map",
     "static/js/2.c01a010b.chunk.js": "/studio/static/js/2.c01a010b.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.bddb457c.chunk.js": "/studio/static/js/3.bddb457c.chunk.js",
     "static/js/3.bddb457c.chunk.js.map": "/studio/static/js/3.bddb457c.chunk.js.map",
     "index.html": "/studio/index.html",
-    "static/css/main.7e874301.chunk.css.map": "/studio/static/css/main.7e874301.chunk.css.map",
+    "static/css/main.40f43eb5.chunk.css.map": "/studio/static/css/main.40f43eb5.chunk.css.map",
     "static/js/2.c01a010b.chunk.js.LICENSE.txt": "/studio/static/js/2.c01a010b.chunk.js.LICENSE.txt",
     "static/media/header.css": "/studio/static/media/bg3.caab009c.jpg",
     "static/media/navbar.css": "/studio/static/media/bg.a87023d8.jpg",
     "static/media/logo1.a50a8075.png": "/studio/static/media/logo1.a50a8075.png",
-    "static/media/marcin.8a8955a1.jpg": "/studio/static/media/marcin.8a8955a1.jpg",
-    "static/media/piotr.f4819e07.jpg": "/studio/static/media/piotr.f4819e07.jpg",
-    "static/media/robotnicza.b3ffb79b.jpg": "/studio/static/media/robotnicza.b3ffb79b.jpg",
+    "static/media/marcin.b7fb6f06.jpg": "/studio/static/media/marcin.b7fb6f06.jpg",
+    "static/media/piotr.88398dc7.jpg": "/studio/static/media/piotr.88398dc7.jpg",
+    "static/media/robotnicza.3433f1af.jpg": "/studio/static/media/robotnicza.3433f1af.jpg",
     "static/media/sala.e752f283.jpg": "/studio/static/media/sala.e752f283.jpg",
     "static/media/sala5.a938bd07.jpg": "/studio/static/media/sala5.a938bd07.jpg",
     "static/media/studio4.4941f67b.jpg": "/studio/static/media/studio4.4941f67b.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.68f75a0f.js",
     "static/js/2.c01a010b.chunk.js",
-    "static/css/main.7e874301.chunk.css",
-    "static/js/main.0cb8e2c0.chunk.js"
+    "static/css/main.40f43eb5.chunk.css",
+    "static/js/main.4cc298bf.chunk.js"
   ]
 }

@@ -1,0 +1,43 @@
+.main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.main ol {
+  font-size: 15px;
+  width: 60%;
+}
+
+.title h1 {
+  margin-top: 10px;
+}
+
+.subtitle {
+  font-size: 18x;
+}
+
+.subtitle a {
+  text-decoration: none;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+@media (max-width: 600px) {
+  .main ol {
+    width: 88%;
+  }
+}
+/*# sourceMappingURL=prywatnosc.css.map */
